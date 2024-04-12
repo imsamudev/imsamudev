@@ -4,11 +4,11 @@
 ![wall burst](https://github.com/imsamudev01/imsamudev01/assets/160678978/bd9d0414-bd37-4bf1-b67f-25f0014c3cc6) 
 
 <h3>
-I’m a 27-year-old aspiring developer on the hunt for my first gig in the IT world. With a passion for web technologies and a creative flair, here’s what I bring to the table:
-HTML, CSS, and JavaScript: I’ve got the basics down pat. Crafting clean and responsive web pages? Check!
-Node.js: While my knowledge of Node.js is basic, I’m eager to learn and grow. I recognize its power for building server-side applications and handling backend logic. Excited to explore more in this field.
-Python and Pandas: Data wrangling and analysis are my jam. I love crunching numbers and extracting insights.
-Figma: I’ve dabbled in design. Although I’m not a pro, I can create simple UI mockups and wireframes.
+I’m a 27-year-old aspiring developer on the hunt for my first gig in the IT world. With a passion for web technologies and a creative flair, here’s what I bring to the table: <br>
+✅HTML, CSS, and JavaScript: I’ve got the basics down pat. Crafting clean and responsive web pages? Check! <br>
+✅Node.js: While my knowledge of Node.js is basic, I’m eager to learn and grow. I recognize its power for building server-side applications and handling backend logic. Excited to explore more in this field. <br>
+✅Python and Pandas: Data wrangling and analysis are my jam. I love crunching numbers and extracting insights. <br>
+✅Figma: I’ve dabbled in design. Although I’m not a pro, I can create simple UI mockups and wireframes. <br>
 Let’s connect! I’m enthusiastic about contributing, learning, and collaborating with fellow developers. 🚀 </h3>
 
 
@@ -31,8 +31,7 @@ Let’s connect! I’m enthusiastic about contributing, learning, and collaborat
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=imsamudev01&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=imsamudev01&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
 </div>
