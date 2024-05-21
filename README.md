@@ -1,9 +1,5 @@
-<div align="center">
+
 <h1>Hey! I’m Samuel Figueroa, aka SamuDev 👋</h1>
-
-![illustration_1](https://github.com/imsamudev01/imsamudev01/assets/160678978/d9a8cad3-aaed-4a2e-bc03-9bd65bd22db1)
-
-
 
 <h3>
 I’m a 27-year-old aspiring developer on the hunt for my first gig in the IT world. With a passion for web technologies and a creative flair, here’s what I bring to the table:
@@ -25,9 +21,6 @@ Let’s connect! I’m enthusiastic about contributing, learning, and collaborat
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsamudev01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=imsamudev01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imsamudev01&theme=tokyonight&hide_border=true)<br/>
-
 
 
 ### ✍️ Random Dev Quote
@@ -39,5 +32,3 @@ Connect with me in linkedin!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samudev)
 
-
-</div>
