@@ -1,16 +1,17 @@
 
-<h1>Hey! I’m Samuel Figueroa, aka SamuDev 👋</h1>
-
+<h1>Hello! My name is Samuel Figueroa, also known as SamuDev 👋🏻 </h1>
 <h3>
-I’m a 27-year-old aspiring developer on the hunt for my first gig in the IT world. With a passion for web technologies and a creative flair, here’s what I bring to the table:
+I am a web developer in search of my first opportunity in the IT industry. With a strong passion for web technologies and a keen eye for design, I bring the following skills and expertise to the table:
   <br/>
-✅HTML, CSS, and JavaScript: I’ve got the basics down pat. Crafting clean and responsive web pages? Check! <br/>
-✅Node.js: While my knowledge of Node.js is basic, I’m eager to learn and grow. I recognize its power for building server-side applications and handling backend logic. Excited to explore more in this field. <br/>
-✅Python and Pandas: Data wrangling and analysis are my jam. I love crunching numbers and extracting insights. <br/>
-✅Figma: I’ve dabbled in design. Although I’m not a pro, I can create simple UI mockups and wireframes. <br>
+✅ HTML, CSS, and JavaScript: Proficient in crafting clean, responsive web pages that ensure optimal user experience across various devices. <br/>
+✅ React and Vite: Skilled in building dynamic, high-performance web applications using modern frameworks and tools. <br/>
+✅ Node.js and Express: Familiar with server-side development and backend logic. Eager to deepen my knowledge and capabilities in this area. <br/>
+✅ SQL: Competent in managing and querying databases to support robust data-driven applications. <br/>
+✅ Python and Pandas: Experienced in data wrangling and analysis, with a knack for extracting meaningful insights from complex datasets. <br/>
+✅ Figma: Able to create simple UI mockups and wireframes, supporting the design and development of intuitive user interfaces. <br>
   <br/>
-Let’s connect! I’m enthusiastic about contributing, learning, and collaborating with fellow developers. 🚀 </h3>
-
+I am enthusiastic about contributing to innovative projects, continuously learning, and collaborating with fellow developers. Let’s connect and create something amazing together! 🫱🏻‍🫲🏻
+</h3>
 
 
 
@@ -20,13 +21,13 @@ Let’s connect! I’m enthusiastic about contributing, learning, and collaborat
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsamudev01&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsamudev&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![](https://visitcount.itsvg.in/api?id=imsamudev01&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=imsamudev&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 Connect with me in linkedin!
 
