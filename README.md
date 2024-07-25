@@ -1,5 +1,5 @@
 
-<h1>Hello! My name is Samuel Figueroa, also known as SamuDev 👋🏻 </h1>
+<h1>Hello! My name is Samuel Figueroa, aka SamuDev 👋🏻 </h1>
 <h3>
 I am a web developer in search of my first opportunity in the IT industry. With a strong passion for web technologies and a keen eye for design, I bring the following skills and expertise to the table:
   <br/>
