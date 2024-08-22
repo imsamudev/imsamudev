@@ -1,17 +1,16 @@
+## Hey, there! I'm Samuel Figueroa aka SamuDev
 
-<h1>Hello! My name is Samuel Figueroa, aka SamuDev 👋🏻 </h1>
-<h3>
-I am a web developer in search of my first opportunity in the IT industry. With a strong passion for web technologies and a keen eye for design, I bring the following skills and expertise to the table:
-  <br/>
-✅ HTML, CSS, and JavaScript: Proficient in crafting clean, responsive web pages that ensure optimal user experience across various devices. <br/>
-✅ React and Vite: Skilled in building dynamic, high-performance web applications using modern frameworks and tools. <br/>
-✅ Node.js and Express: Familiar with server-side development and backend logic. Eager to deepen my knowledge and capabilities in this area. <br/>
-✅ SQL: Competent in managing and querying databases to support robust data-driven applications. <br/>
-✅ Python and Pandas: Experienced in data wrangling and analysis, with a knack for extracting meaningful insights from complex datasets. <br/>
-✅ Figma: Able to create simple UI mockups and wireframes, supporting the design and development of intuitive user interfaces. <br>
-  <br/>
-I am enthusiastic about contributing to innovative projects, continuously learning, and collaborating with fellow developers. Let’s connect and create something amazing together! 🫱🏻‍🫲🏻
-</h3>
+I'm a passionate web developer from Argentina with over a year of experience in programming. Completely self-taught, I've built a strong foundation in HTML, CSS, and JavaScript, and I'm currently enhancing my skills in **React**.
+
+### Learning and Projects
+
+I've worked on both individual and team projects, developing everything from interactive frontend interfaces to robust backend systems. I'm currently working on **Animal Kingdom**, a Wikipedia-like website about animals.
+
+### Goals
+
+I specialize in frontend development, always striving to create intuitive and functional interfaces. My goal is to continue refining my web development skills and land my first formal job as a frontend developer. Additionally, I'm open to exploring new technologies and areas within the programming world.
+
+
 
 
 
@@ -26,8 +25,6 @@ I am enthusiastic about contributing to innovative projects, continuously learni
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-[![](https://visitcount.itsvg.in/api?id=imsamudev&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 Connect with me in linkedin!
 
