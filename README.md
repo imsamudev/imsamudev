@@ -1,4 +1,4 @@
-![nameCover2 (1)](https://github.com/user-attachments/assets/5c71cee5-b6b4-46d0-9989-ea2211d5b7db)
+<img height="360" alt="gif" src="https://github.com/user-attachments/assets/4096d86e-7d92-4467-bab7-41619fee4b44" />
 
 ## About Me
 
