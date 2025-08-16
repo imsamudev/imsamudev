@@ -1,5 +1,3 @@
-<img height="360" alt="gif" src="https://github.com/user-attachments/assets/4096d86e-7d92-4467-bab7-41619fee4b44" />
-
 ## About Me
 
 Hello! I'm a dedicated web developer from Argentina. With over a year of programming experience, I've built a solid foundation in HTML, CSS, and JavaScript, and I'm currently focusing on mastering **ReactJS** and **NextJS**. I’m entirely self-taught and continuously expanding my skill set to take on more complex projects.
